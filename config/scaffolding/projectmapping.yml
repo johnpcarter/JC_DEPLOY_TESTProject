@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: JC_DEPLOY_TESTProject
+runtimes:
+- runtimeAlias: JC_PROD
+  assets:
+  - name: Invoke HelloWorld
+    type: workflow
+    uid: fl86080a3219de3608dacc18
+    stepId: a0
+    reference: project.jc_deploy_test.integrations:HelloWorld
