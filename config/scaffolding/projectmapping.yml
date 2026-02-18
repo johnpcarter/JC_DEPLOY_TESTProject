@@ -1,7 +1,7 @@
 version: "1.0"
 projectName: JC_DEPLOY_TESTProject
 runtimes:
-- runtimeAlias: JC_PROD
+- runtimeAlias: JC_EDGE_DEMO
   assets:
   - name: Invoke HelloWorld
     type: workflow
