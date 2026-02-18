@@ -2,12 +2,12 @@ version: "1.0"
 info:
   model: int-scaffold
 packages:
+- name: JcHelloWorldAPI
+  gitServerName: johnpcarter
+  gitUrl: https://github.com/johnpcarter
+  gitUsername: johnpcarter
 - name: JC_DEPLOY_TESTProject
   gitServerName: johnpcarter
   gitUrl: https://github.com/johnpcarter
   gitUsername: johnpcarter
   gitBranch: main
-- name: JcHelloWorldAPI
-  gitServerName: johnpcarter
-  gitUrl: https://github.com/johnpcarter
-  gitUsername: johnpcarter
